@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @sorenaV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sorenaV/sorenaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Amirhossein, a passionate Front-End Developer and Computer Software Engineering student.
+- 🔭 Current Project: Working on the Wild Oasis website
+- 👀 Interests: Creating seamless and innovative web experiences
+- 🌱 Learning: Next.js
+- 💬 Ask Me About: Anything tech-related – I love sharing knowledge and discussing new ideas
+- 📫 How to reach me: theamirhoseinvali@gmail.com
+- ⚡ Fun Fact: I enjoy solving complex problems and optimizing performance in web applications.
