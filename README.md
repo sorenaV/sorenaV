@@ -1,7 +1,1 @@
-- 👋 Hi, I'm Amirhossein, a passionate Front-End Developer and Computer Software Engineering student.
-- 🔭 Current Project: Working on the Wild Oasis website
-- 👀 Interests: Creating seamless and innovative web experiences
-- 🌱 Learning: Next.js
-- 💬 Ask Me About: Anything tech-related – I love sharing knowledge and discussing new ideas
-- 📫 How to reach me: theamirhoseinvali@gmail.com
-- ⚡ Fun Fact: I enjoy solving complex problems and optimizing performance in web applications.
+
